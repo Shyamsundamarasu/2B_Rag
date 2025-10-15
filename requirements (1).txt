@@ -1,0 +1,8 @@
+gradio
+torch
+transformers
+sentence-transformers
+faiss-cpu
+PyMuPDF
+python-dotenv
+accelerate
